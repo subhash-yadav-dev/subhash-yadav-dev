@@ -1,4 +1,5 @@
-Hi there, I'm Subhash Yadav 👋
+# Hi there, I'm Subhash Yadav 👋
+
 Software Engineer | MERN Stack Specialist | Building Scalable Solutions
 
 I'm a passionate Full-Stack Developer with 4 years of experience crafting robust web applications. I thrive on transforming complex business problems into elegant, efficient code that delivers real value.
@@ -13,6 +14,7 @@ I'm a passionate Full-Stack Developer with 4 years of experience crafting robust
 💡 Passionate about clean code, performance optimization, and user-centric design
 
 🛠 Technical Arsenal
+
 Backend & Core Languages
 <div align="center"> 
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/> 
@@ -50,7 +52,9 @@ DevOps & Architecture
 </div>
 
 💼 Featured Projects
+
 🚀 Sourcing Management System
+
 Full-stack platform that digitized manual workflows, reducing data loss by 80%
 
 Tech: Node.js, Express, React, MongoDB, Redis
@@ -76,17 +80,18 @@ Tech: Node.js, MongoDB aggregation, React hooks
 Features: Query optimization, caching strategies, bundle analysis
 
 📈 Problem-Solving Approach
+
 A simple flow diagram visually communicates your methodology better than a block of text.
 
 Code snippet
 
 graph TD
-    A[Business Problem] --> B{Technical Analysis & Requirements};
-    B --> C[Architecture Design (Microservices/MVC)];
-    C --> D[Development & Code Review];
-    D --> E[Testing & Performance Optimization];
-    E --> F[Deployment (CI/CD, AWS/Docker)];
-    F --> G[Monitoring & Iteration];
+    A[Business Problem] --> B{Technical Analysis & Requirements}
+    B --> C[Architecture Design (Microservices/MVC)]
+    C --> D[Development & Code Review]
+    D --> E[Testing & Performance Optimization]
+    E --> F[Deployment (CI/CD, AWS/Docker)
+    F --> G[Monitoring & Iteration]
 
 📊 My Coding Activity
 <!-- START CODING ACTIVITY --><div align="center">
