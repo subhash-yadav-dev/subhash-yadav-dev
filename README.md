@@ -1,5 +1,5 @@
 Hi, I'm Subhash Yadav!
-<div align="center"> <a href="https://github.com/subhashyadav"> <img src="https://github-readme-stats.vercel.app/api?username=subhashyadav&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="Subhash's GitHub Stats"/> </a> <a href="https://github.com/subhashyadav"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhashyadav&layout=compact&theme=radical&hide_border=true" alt="Subhash's Top Languages"/> </a> </div>
+<div align="center"> <a href="https://github.com/subhashyadav"> <img src="https://github-readme-stats.vercel.app/api?username=subhash-yadav-dev&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="Subhash's GitHub Stats"/> </a> <a href="https://github.com/subhashyadav"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhash-yadav-dev&layout=compact&theme=radical&hide_border=true" alt="Subhash's Top Languages"/> </a> </div>
 
 💻 Full-Stack Software Engineer & Backend Architect
 
@@ -61,7 +61,7 @@ graph TD
     E --> F[Deployment (CI/CD, AWS/Docker)];
     F --> G[Monitoring & Iteration];
 🤝 Let's Connect & Collaborate
-<div align="center"> <a href="Your_LinkedIn_URL"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a> <a href="Your_Portfolio_URL"><img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Badge"/></a> <a href="mailto:Your_Email_Address"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/></a> </div>
+<div align="center"> <a href="www.linkedin.com/in/subhash-yadav-dev"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a> <a href="https://shorturl.at/xgtU9"><img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Badge"/></a> <a href="mailto:subhashyadav8800@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/></a> </div>
 
 I'm open to discussing:
 
