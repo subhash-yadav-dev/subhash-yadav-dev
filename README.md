@@ -79,26 +79,24 @@ Tech: Node.js, MongoDB aggregation, React hooks
 
 Features: Query optimization, caching strategies, bundle analysis
 
-📈 Problem-Solving Approach
+# 💡 Development Lifecycle
 
-A simple flow diagram visually communicates your methodology better than a block of text.
-
-Code snippet
-
-graph TD
-    A[Business Problem] --> B{Technical Analysis & Requirements}
-    B --> C[Architecture Design (Microservices/MVC)]
-    C --> D[Development & Code Review]
-    D --> E[Testing & Performance Optimization]
-    E --> F[Deployment (CI/CD, AWS/Docker)
-    F --> G[Monitoring & Iteration]
+| Stage | Process | Tools & Methods |
+|-------|---------|-----------------|
+| **1. Analysis** | Business Problem → Requirements | JIRA, User Stories, SWOT |
+| **2. Design** | Architecture Planning | Microservices, MVC, System Design |
+| **3. Development** | Coding & Review | Git, PR Reviews, Agile |
+| **4. Testing** | QA & Optimization | Jest, Load Testing, Profiling |
+| **5. Deployment** | CI/CD & Infrastructure | AWS, Docker, GitHub Actions |
+| **6. Monitoring** | Analytics & Iteration | Logging, Metrics, User Feedback |
 
 📊 My Coding Activity
 <!-- START CODING ACTIVITY --><div align="center">
-"Code is like humor. When you have to explain it, it's bad." - Cory House
+"Code is like humor. When you have to explain it, it's bad."
 
 </div> <!-- END CODING ACTIVITY -->
 🎯 Current Focus
+
 🔭 Building: Scalable backend systems at Labourhome
 
 🌱 Learning: Advanced MongoDB aggregation and AWS services
@@ -111,6 +109,7 @@ graph TD
 <div align="center"> <a href="www.linkedin.com/in/subhash-yadav-dev"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a> <a href="https://shorturl.at/xgtU9"><img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Badge"/></a> <a href="mailto:subhashyadav8800@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/></a> </div>
 
 <div align="center">
+    
 ⭐️ Fun Fact: I optimized MongoDB queries that reduced data retrieval time by 30% while supporting 50% more traffic!
 
 <img src="https://komarev.com/ghpvc/?username=subhash-yadav-dev&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" /></div>
