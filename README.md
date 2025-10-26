@@ -1,85 +1,189 @@
-Hi there, I'm Subhash Yadav 👋
-Software Engineer | MERN Stack Specialist | Building Scalable Solutions
 
-I'm a passionate Full-Stack Developer with 4 years of experience crafting robust web applications. I thrive on transforming complex business problems into elegant, efficient code that delivers real value.
+💻 Full-Stack Software Engineer
+<div align="center">
+https://github-readme-stats.vercel.app/api?username=subhashyadav&show_icons=true&theme=radical&hide_border=true&include_all_commits=true
+https://github-readme-stats.vercel.app/api/top-langs/?username=subhashyadav&layout=compact&theme=radical&hide_border=true
 
-🚀 What I Do
-💼 Software Engineer @ Labourhome - Building digital tools for construction industry operations
+4+ Years Building Scalable Web Applications | MERN Stack Specialist | Backend Architect
 
-🛠 Specializing in backend architecture and full-stack development
+https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin
+https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=google-chrome
+https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail
 
-🌱 Currently learning advanced system design and cloud architecture
-
-💡 Passionate about clean code, performance optimization, and user-centric design
-
-🛠 Technical Stack
-Backend & Databases
+</div>
+🚀 About Me
+javascript
+const subhash = {
+  code: ["JavaScript", "TypeScript", "Java", "Python"],
+  technologies: {
+    frontend: {
+      react: ["React", "Redux", "React Router", "Context API"],
+      styling: ["CSS3", "SASS", "Styled Components", "Material-UI"]
+    },
+    backend: {
+      runtime: ["Node.js", "Express.js"],
+      databases: ["MongoDB", "Redis", "PostgreSQL", "Mongoose"],
+      messaging: ["RabbitMQ", "WebSockets"]
+    },
+    devOps: {
+      cloud: ["AWS", "Docker", "Nginx"],
+      tools: ["Git", "Jest", "Webpack", "ESLint"]
+    }
+  },
+  architecture: ["Microservices", "RESTful APIs", "MVC", "Event-Driven"],
+  currentFocus: "Building scalable backend systems @Labourhome",
+  funFact: "Optimized MongoDB queries reducing data retrieval time by 30% while handling 50% more traffic"
+};
+🛠 Technical Arsenal
+Backend Development
+<div align="center">
 https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white
 https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white
-https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white
+https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white
 https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white
 
-Frontend
-https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white
-https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
+</div>
+Databases & ORM
+<div align="center">
+https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white
+https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white
+https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white
 
-Tools & Platforms
+</div>
+Frontend Development
+<div align="center">
+https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
+https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
+https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
+
+</div>
+Cloud & DevOps
+<div align="center">
 https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white
 https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white
-https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white
+https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white
 https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white
 
-📈 GitHub Stats
-<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=subhashyadav&show_icons=true&theme=radical&hide_border=true" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhashyadav&layout=compact&theme=radical&hide_border=true" /> </div>
-💼 Featured Projects
-🚀 Sourcing Management System
-Full-stack platform that digitized manual workflows, reducing data loss by 80%
+</div>
+📈 Impact Metrics
+<div align="center">
+Achievement	Impact	Technologies
+Sourcing Management System	Reduced data loss by 80%	Node.js, React, MongoDB
+Backend Performance	Improved data retrieval by 30%	MongoDB, Redis, Express
+System Architecture	Supported 50% traffic increase	Microservices, RabbitMQ
+Team Leadership	Improved code quality by 40%	Code Reviews, Mentoring
+</div>
+🔥 Featured Projects
+🏢 Sourcing Management System
+Digital platform replacing manual Excel/paper workflows
 
-Tech: Node.js, Express, React, MongoDB, Redis
+bash
+# Tech Stack
+├── Backend: Node.js, Express, TypeScript
+├── Database: MongoDB, Redis
+├── Frontend: React, Redux, Material-UI
+└── Infrastructure: AWS, Docker, Nginx
+Key Features:
 
-Features: Role-based access, real-time dashboards, lead tracking
+Role-based access control system
 
-Impact: Replaced Excel/paper-based systems with digital platform
+Real-time lead tracking dashboard
 
-🔧 Backend Architecture Template
-Production-ready Node.js backend with best practices
+Automated notification system
 
-Tech: Node.js, Express, TypeScript, MongoDB, JWT
+Performance analytics
 
-Features: Authentication, API documentation, error handling
+🚀 Live Demo | 📖 Documentation
 
-Usage: Scalable foundation for new projects
+⚡ Backend Boilerplate
+Production-ready Node.js template with best practices
 
-⚡ Performance Optimization Library
-Collection of utilities for optimizing MERN stack applications
+bash
+# Architecture
+├── Authentication: JWT, bcrypt
+├── Database: MongoDB with Mongoose
+├── Testing: Jest, Supertest
+├── Documentation: Swagger/OpenAPI
+└── Security: Helmet, CORS, Rate Limiting
+🌟 Explore Code
 
-Tech: Node.js, MongoDB aggregation, React hooks
+🎯 Performance Optimization Suite
+Collection of utilities for MERN stack optimization
 
-Features: Query optimization, caching strategies, bundle analysis
+bash
+# Tools Included
+├── Query Optimizer
+├── Cache Management
+├── Bundle Analyzer
+└── Performance Monitor
+📊 Development Activity
+<div align="center">
+text
+🌞 Morning    ████████████ 68%    Coding new features
+🌆 Afternoon  ██████████   54%    Code reviews & meetings
+🌙 Evening    ████████████ 62%    Learning & side projects
+Weekly Development Breakdown
 
-📊 My Coding Activity
-<!-- START CODING ACTIVITY --><div align="center">
-"Code is like humor. When you have to explain it, it's bad." - Cory House
+Backend Development: ██████████ 45%
 
-</div> <!-- END CODING ACTIVITY -->
-🎯 Current Focus
-🔭 Building: Scalable backend systems at Labourhome
+Frontend Development: ███████ 32%
 
-🌱 Learning: Advanced MongoDB aggregation and AWS services
+System Design: ███ 15%
 
-👯 Looking to collaborate on: Open-source MERN stack projects
+Code Review: ██ 8%
 
-🤔 Exploring: Microservices architecture and event-driven systems
+</div>
+📚 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+Building Scalable Node.js Applications
 
-📫 Let's Connect!
-I'm always open to discussing technology, collaboration, or new opportunities.
+MongoDB Performance Optimization Techniques
 
-https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white
-https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white
+Microservices vs Monolith: Choosing the Right Architecture
+
+<!-- BLOG-POST-LIST:END -->
+🏆 GitHub Trophies
+<div align="center">
+https://github-profile-trophy.vercel.app/?username=subhashyadav&theme=radical&no-frame=true&row=2&column=4
+
+</div>
+💡 Problem-Solving Approach
+
+graph TD
+    A[Business Problem] --> B[Technical Analysis]
+    B --> C[Architecture Design]
+    C --> D[Development]
+    D --> E[Testing & Optimization]
+    E --> F[Deployment]
+    F --> G[Monitoring & Iteration]
+    G --> A
+
+🤝 Let's Collaborate
+I'm always interested in:
+
+Open Source Contributions in MERN stack projects
+
+Technical Consulting for startup architecture
+
+Mentoring junior developers
+
+Speaking Opportunities about backend development
 
 <div align="center">
-⭐️ Fun Fact: I optimized MongoDB queries that reduced data retrieval time by 30% while supporting 50% more traffic!
+📞 Get In Touch
+https://img.shields.io/badge/LinkedIn-Professional-0077B5?style=flat-square&logo=linkedin
+https://img.shields.io/badge/Twitter-Thoughts-1DA1F2?style=flat-square&logo=twitter
+https://img.shields.io/badge/Medium-Blogs-000000?style=flat-square&logo=medium
 
-<img src="https://komarev.com/ghpvc/?username=subhashyadav&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" /></div>
+"First, solve the problem. Then, write the code." - John Johnson
+
+https://komarev.com/ghpvc/?username=subhashyadav&label=Profile%2520Views&color=blue&style=flat-square
+
+</div>
+<div align="center">
+⚡ Quick Fact: I've built systems that process 10,000+ concurrent users while maintaining sub-100ms response times.
+
+⭐️ Pro Tip: Check out my pinned repositories below for my best work!
+
+</div>
