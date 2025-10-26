@@ -1,189 +1,76 @@
+Hi, I'm Subhash Yadav!
+<div align="center"> <a href="https://github.com/subhashyadav"> <img src="https://github-readme-stats.vercel.app/api?username=subhashyadav&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="Subhash's GitHub Stats"/> </a> <a href="https://github.com/subhashyadav"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhashyadav&layout=compact&theme=radical&hide_border=true" alt="Subhash's Top Languages"/> </a> </div>
 
-💻 Full-Stack Software Engineer
-<div align="center">
-https://github-readme-stats.vercel.app/api?username=subhashyadav&show_icons=true&theme=radical&hide_border=true&include_all_commits=true
-https://github-readme-stats.vercel.app/api/top-langs/?username=subhashyadav&layout=compact&theme=radical&hide_border=true
+💻 Full-Stack Software Engineer & Backend Architect
 
-4+ Years Building Scalable Web Applications | MERN Stack Specialist | Backend Architect
+I'm a seasoned Full-Stack Software Engineer with 4+ years of experience specializing in building highly scalable, performant, and resilient web applications. My expertise lies in the MERN Stack and Microservices architecture, with a focus on optimizing backend systems to handle significant load and complex data structures.
 
-https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin
-https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=google-chrome
-https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail
+🚀 Key Professional Highlights
+Backend Mastery: Architected and developed Microservices and RESTful APIs using Node.js, Express.js, and TypeScript.
 
-</div>
-🚀 About Me
-javascript
-const subhash = {
-  code: ["JavaScript", "TypeScript", "Java", "Python"],
-  technologies: {
-    frontend: {
-      react: ["React", "Redux", "React Router", "Context API"],
-      styling: ["CSS3", "SASS", "Styled Components", "Material-UI"]
-    },
-    backend: {
-      runtime: ["Node.js", "Express.js"],
-      databases: ["MongoDB", "Redis", "PostgreSQL", "Mongoose"],
-      messaging: ["RabbitMQ", "WebSockets"]
-    },
-    devOps: {
-      cloud: ["AWS", "Docker", "Nginx"],
-      tools: ["Git", "Jest", "Webpack", "ESLint"]
-    }
-  },
-  architecture: ["Microservices", "RESTful APIs", "MVC", "Event-Driven"],
-  currentFocus: "Building scalable backend systems @Labourhome",
-  funFact: "Optimized MongoDB queries reducing data retrieval time by 30% while handling 50% more traffic"
-};
+Performance Optimization: Optimized MongoDB queries, resulting in a 30% reduction in data retrieval time and successfully supporting a 50% increase in traffic.
+
+MERN Stack Specialist: Proficient across the entire stack, from React/Redux to robust backend development and DevOps (AWS, Docker).
+
+Current Focus: Building scalable backend systems and leading technical initiatives at Labourhome.
+
 🛠 Technical Arsenal
-Backend Development
-<div align="center">
-https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white
-https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white
-https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white
-https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white
+Showcasing skills with badges is effective, but group them logically and concisely.
 
-</div>
-Databases & ORM
-<div align="center">
-https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white
-https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white
-https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white
+Backend & Core Languages
+<div align="center"> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> </div>
 
-</div>
+Databases & Caching
+<div align="center"> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/> <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/> </div>
+
 Frontend Development
-<div align="center">
-https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
-https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
-https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
+<div align="center"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/> <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/> <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" alt="Material-UI"/> </div>
 
-</div>
-Cloud & DevOps
-<div align="center">
-https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white
-https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white
-https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white
-https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white
+DevOps & Architecture
+<div align="center"> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-for-the-badge&logo=docker&logoColor=white" alt="Docker"/> <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx"/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/> </div>
 
-</div>
-📈 Impact Metrics
-<div align="center">
-Achievement	Impact	Technologies
-Sourcing Management System	Reduced data loss by 80%	Node.js, React, MongoDB
-Backend Performance	Improved data retrieval by 30%	MongoDB, Redis, Express
-System Architecture	Supported 50% traffic increase	Microservices, RabbitMQ
-Team Leadership	Improved code quality by 40%	Code Reviews, Mentoring
-</div>
 🔥 Featured Projects
-🏢 Sourcing Management System
-Digital platform replacing manual Excel/paper workflows
+Prioritize and make the project descriptions direct and impact-focused. Link to the actual repositories/demos.
 
-bash
-# Tech Stack
-├── Backend: Node.js, Express, TypeScript
-├── Database: MongoDB, Redis
-├── Frontend: React, Redux, Material-UI
-└── Infrastructure: AWS, Docker, Nginx
-Key Features:
+🏢 Sourcing Management System (MERN Stack)
+A digital platform that replaced manual workflows (Excel/paper), significantly reducing data loss by 80% and introducing real-time lead tracking.
 
-Role-based access control system
+Tech Stack: Node.js (TypeScript), Express, React (Redux), MongoDB, Redis, AWS, Docker.
 
-Real-time lead tracking dashboard
+Key Features: Role-based access control, real-time dashboards, automated notifications.
 
-Automated notification system
+⚡ Backend Boilerplate (Node.js/Express)
+A production-ready template showcasing best practices for scalable backend development.
 
-Performance analytics
+Architecture: Implements JWT authentication, MongoDB/Mongoose, Jest testing, and Swagger documentation.
 
-🚀 Live Demo | 📖 Documentation
+Focus: Security (Helmet, CORS), performance, and maintainability.
 
-⚡ Backend Boilerplate
-Production-ready Node.js template with best practices
-
-bash
-# Architecture
-├── Authentication: JWT, bcrypt
-├── Database: MongoDB with Mongoose
-├── Testing: Jest, Supertest
-├── Documentation: Swagger/OpenAPI
-└── Security: Helmet, CORS, Rate Limiting
 🌟 Explore Code
 
-🎯 Performance Optimization Suite
-Collection of utilities for MERN stack optimization
+📈 Problem-Solving Approach
+A simple flow diagram visually communicates your methodology better than a block of text.
 
-bash
-# Tools Included
-├── Query Optimizer
-├── Cache Management
-├── Bundle Analyzer
-└── Performance Monitor
-📊 Development Activity
-<div align="center">
-text
-🌞 Morning    ████████████ 68%    Coding new features
-🌆 Afternoon  ██████████   54%    Code reviews & meetings
-🌙 Evening    ████████████ 62%    Learning & side projects
-Weekly Development Breakdown
-
-Backend Development: ██████████ 45%
-
-Frontend Development: ███████ 32%
-
-System Design: ███ 15%
-
-Code Review: ██ 8%
-
-</div>
-📚 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-Building Scalable Node.js Applications
-
-MongoDB Performance Optimization Techniques
-
-Microservices vs Monolith: Choosing the Right Architecture
-
-<!-- BLOG-POST-LIST:END -->
-🏆 GitHub Trophies
-<div align="center">
-https://github-profile-trophy.vercel.app/?username=subhashyadav&theme=radical&no-frame=true&row=2&column=4
-
-</div>
-💡 Problem-Solving Approach
+Code snippet
 
 graph TD
-    A[Business Problem] --> B[Technical Analysis]
-    B --> C[Architecture Design]
-    C --> D[Development]
-    D --> E[Testing & Optimization]
-    E --> F[Deployment]
-    F --> G[Monitoring & Iteration]
-    G --> A
+    A[Business Problem] --> B{Technical Analysis & Requirements};
+    B --> C[Architecture Design (Microservices/MVC)];
+    C --> D[Development & Code Review];
+    D --> E[Testing & Performance Optimization];
+    E --> F[Deployment (CI/CD, AWS/Docker)];
+    F --> G[Monitoring & Iteration];
+🤝 Let's Connect & Collaborate
+<div align="center"> <a href="Your_LinkedIn_URL"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a> <a href="Your_Portfolio_URL"><img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Badge"/></a> <a href="mailto:Your_Email_Address"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/></a> </div>
 
-🤝 Let's Collaborate
-I'm always interested in:
+I'm open to discussing:
 
-Open Source Contributions in MERN stack projects
+Technical consulting for startup architecture.
 
-Technical Consulting for startup architecture
+Open-source contributions in the MERN stack.
 
-Mentoring junior developers
+Mentoring and knowledge sharing on backend systems.
 
-Speaking Opportunities about backend development
+“First, solve the problem. Then, write the code.” - John Johnson
 
-<div align="center">
-📞 Get In Touch
-https://img.shields.io/badge/LinkedIn-Professional-0077B5?style=flat-square&logo=linkedin
-https://img.shields.io/badge/Twitter-Thoughts-1DA1F2?style=flat-square&logo=twitter
-https://img.shields.io/badge/Medium-Blogs-000000?style=flat-square&logo=medium
-
-"First, solve the problem. Then, write the code." - John Johnson
-
-https://komarev.com/ghpvc/?username=subhashyadav&label=Profile%2520Views&color=blue&style=flat-square
-
-</div>
-<div align="center">
-⚡ Quick Fact: I've built systems that process 10,000+ concurrent users while maintaining sub-100ms response times.
-
-⭐️ Pro Tip: Check out my pinned repositories below for my best work!
-
-</div>
+<div align="center"> <img src="https://komarev.com/ghpvc/?username=subhashyadav&label=Profile%2520Views&color=blue&style=flat-square" alt="Profile Views"/> <img src="https://github-profile-trophy.vercel.app/?username=subhashyadav&theme=radical&no-frame=true&row=2&column=4" alt="GitHub Trophies"/> </div>
